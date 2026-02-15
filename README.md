@@ -27,7 +27,3 @@
 <h6 align="center"> <img src="https://komarev.com/ghpvc/?username=alibekkhudoykulov" alt="alibekkhudoykulov" /> </h6>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibekkhudoykulov&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="alibekkhudoykulov" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alibekkhudoykulov&show_icons=true&include_all_commits=true&count_private=true" alt="alibekkhudoykulov" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alibekkhudoykulov&layout=compact" alt="alibekkhudoykulov" /> </p>
