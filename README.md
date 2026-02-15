@@ -24,10 +24,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 
-<h6 align="center"> <img src="https://komarev.com/ghpvc/?username=caceresenzo" alt="caceresenzo" /> </h6>
+<h6 align="center"> <img src="https://komarev.com/ghpvc/?username=alibekkhudoykulov" alt="alibekkhudoykulov" /> </h6>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caceresenzo&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="caceresenzo" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibekkhudoykulov&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="alibekkhudoykulov" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Caceresenzo&show_icons=true&include_all_commits=true&count_private=true" alt="caceresenzo" /> </p>
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alibekkhudoykulov&show_icons=true&include_all_commits=true&count_private=true" alt="alibekkhudoykulov" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caceresenzo&layout=compact" alt="caceresenzo" /> </p>
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alibekkhudoykulov&layout=compact" alt="alibekkhudoykulov" /> </p>
