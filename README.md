@@ -1,29 +1,62 @@
 <h1 align="center">Hi 👋, I'm Alibek Khudoykulov</h1>
-<h3 align="center">A passionate Java developer </h3>
-<!-- <h4 align="center"><a href="https://caceresenzo.dev" target="_blank">portfolio website</a></h4> -->
+<h3 align="center">Java Developer | AWS Certified Solutions Architect</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=alibekkhudoykulov&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
-<h6 align="center"> <img src="https://komarev.com/ghpvc/?username=alibekkhudoykulov" alt="alibekkhudoykulov" /> </h6>
+---
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibekkhudoykulov&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="alibekkhudoykulov" /> </p>
+### 🛠️ Tech Stack & Expertise
+
+#### 🚀 Core Java & Enterprise Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring-cloud&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Multithreading-000000?style=for-the-badge" alt="Multithreading" />
+</p>
+
+#### ☁️ Cloud & Infrastructure (AWS Certified)
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_Step_Functions-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Step Functions" />
+  <img src="https://img.shields.io/badge/AWS_ECS_Fargate-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" alt="AWS ECS Fargate" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=aws-cloudformation&logoColor=white" alt="CloudFormation" />
+</p>
+
+#### 🔍 Databases & Search Engines
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="SageMaker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+#### 🌐 DevOps, Scripting & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux_/_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/Ubuntu" />
+  <img src="https://img.shields.io/badge/Git_/_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+#### 🧪 Other Tech (Languages & Frameworks)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibekkhudoykulov&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alibekkhudoykulov&show_icons=true&theme=dark" alt="Alibek's GitHub stats" />
+</p>
