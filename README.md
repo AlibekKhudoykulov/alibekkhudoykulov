@@ -54,9 +54,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibekkhudoykulov&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibekkhudoykulov&theme=light&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alibekkhudoykulov&show_icons=true&theme=dark" alt="Alibek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alibekkhudoykulov&show_icons=true&theme=light" alt="Alibek's GitHub stats" />
 </p>
